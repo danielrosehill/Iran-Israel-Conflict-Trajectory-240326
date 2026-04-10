@@ -1,5 +1,8 @@
 # Iran-Israel-US Conflict Trajectory (24/03/2026)
 
+> **Prediction Tracker**: This run is tracked in the [Geopol Forecasts Index](https://github.com/danielrosehill/Geopol-Forecasts-Index).
+> Accuracy is assessed using the standard rubric as prediction windows close.
+
 An open-sourced geopolitical forecast run produced by [Geopol Forecaster](https://github.com/danielrosehill/Geopol-Forecaster).
 
 ## Stack
