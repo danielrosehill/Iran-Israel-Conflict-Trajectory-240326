@@ -1,0 +1,50 @@
+## NEWS HEADLINES (23 conflict-relevant articles)
+*Sources: Jerusalem Post, Times of Israel*
+*Fetched: Tue, 24 Mar 2026 22:51:22 GMT*
+
+- **Iran claims Israel, US, attacked near nuclear power plant, no technical damage or casualties** (2026-03-24 21:41 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/713155' alt='SATELLITE IMAGE shows the Bushehr Nuclear Power Plant, in Bushehr Province, Iran, May 26, 2025. (photo credit: 2025 Planet Labs PBC/Handout via REUTERS)' title='SATELLI
+- **Trump says talks with Iran progressing, as Israel said to fear premature ceasefire** (2026-03-24 21:30 UTC, Times of Israel)
+  Hebrew report say Washington sent Tehran 15 conditions for a deal, and summit could take place in Pakistan within days; US president says regime gave US 'very big present' The post Trump says talks with Iran progressing, as Israel said to fear premature ceasefire appeared first on The Times of Israe
+- **Europe within Iran missile range, but experts question real strike capability** (2026-03-24 21:26 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/712767' alt='People attend an anti-US and Israeli rally, amid the US-Israeli conflict with Iran, in Tehran, Iran, March 22, 2026. (photo credit: MAJID ASGARIPOUR/WANA (WEST ASIA NEW
+- **Iranian missile intercepted above Lebanon, shrapnel falls on towns in Beirut** (2026-03-24 20:46 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/713145' alt='A HOLE in a wall, after shrapnel from an intercepted Iranian missile made impact in Sahel Alma, a Christian town north of Beirut, Lebanon, according to Lebanese sources
+- **Trump insists Iran regime change already happened, claims Iranians want a deal 'very badly'** (2026-03-24 20:46 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/713149' alt='US President Donald Trump speaks as he attends Markwayne Mullin's swearing-in as Department of Homeland Security (DHS) Secretary, at the White House in Washington, DC, 
+- **Half-asleep, sheltering underground: Tel Aviv residents seek normalcy under rocket fire** (2026-03-24 20:37 UTC, Times of Israel)
+  From tent-city shelters to empty offices and shopping malls, residents navigate fatigue and fear while trying to maintain a semblance of routine during war with Iran The post Half-asleep, sheltering underground: Tel Aviv residents seek normalcy under rocket fire appeared first on The Times of Israel
+- **US to deploy 3,000 82nd Airborne Division troops to Middle East to support Iran war - WSJ** (2026-03-24 20:14 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2000,w_3000/713137' alt='A US Army soldier from the 82nd Airborne Division closes the gate of an airbase, amid Russia's invasion of Ukraine, near Arlamow, Poland, April 5, 2022. (photo credit
+- **Woman killed, 2 injured in Hezbollah rocket attack on northern Israel** (2026-03-24 20:08 UTC, Times of Israel)
+  Nuriel Dubin, 27, was youth counselor about to be married; Iranian missile hits Safed; IDF says IRGC official killed in strike on Beirut, 5 Hezbollah operatives slain in south Lebanon The post Woman killed, 2 injured in Hezbollah rocket attack on northern Israel appeared first on The Times of Israel
+- **‘If Iran keeps its uranium, everything was for nothing’: Experts, officials react to Trump's pause** (2026-03-24 19:55 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/710763' alt='Smoke and flames rise at the site of airstrikes on an oil depot in Tehran on March 7, 2026. (photo credit: Sasan / Middle East Images / AFP via Getty Images)' title='Sm
+- **Edmond de Rothschild Paris offices raided in Epstein-linked probe into diplomat** (2026-03-24 19:36 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2301,w_3423/698909' alt='Ghislaine Maxwell and Jeffrey Epstein are seen in this image released by the Department of Justice in Washington, DC, US, on December 19, 2025 (photo credit: US JUSTI
+- **Iran conflict sees controlled uncertainty as Trump mixes diplomacy with pressure - analysis** (2026-03-24 18:58 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1936,w_2897/712727' alt='US President Donald Trump gestures as he steps from Air Force One upon his arrival in West Palm Beach, Florida, US, March 20, 2026 (photo credit: REUTERS/KEVIN LAMARQ
+- **IDF names Muhammad Ali Kourani as Quds Force member killed in Beirut strike** (2026-03-24 18:52 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2667,w_4000/713128' alt='(ILLUSTRATIVE) An overview of the destruction following overnight Israeli airstrikes that targeted Beirut's southern suburbs Haret Hreik neighborhood on March 24, 202
+- **IDF reservist drowns in Jordan River in attempt to save his son** (2026-03-24 18:49 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_739,w_1143/713148' alt='Uriah Sarusi, the IDF reservist who drowned in the Jordan River on March 24, 2024. (photo credit: SAMARIA REGIONAL COUNCIL)' title='Uriah Sarusi, the IDF reservist who
+- **Iran war has been winding down since mid-March after decline in bombing - analysis** (2026-03-24 18:29 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3931,w_5897/711697' alt='Anti-missile batteries fire interception missiles toward incoming ballistic missiles launched from Iran, as seen over Tel Aviv, during the war with Iran and ongoing m
+- **Arabic-language Wikipedia filled with terrorist propaganda, bias &#8211; report** (2026-03-24 18:01 UTC, Times of Israel)
+  Up to 50% of citations in some articles about the Israeli-Palestinian conflict come from messaging put out by Hamas, Hezbollah and other terror groups, World Jewish Congress says The post Arabic-language Wikipedia filled with terrorist propaganda, bias &#8211; report appeared first on The Times of I
+- **Israel’s Bedouin community open homes to victims of Dimona, Arad strike** (2026-03-24 17:26 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1600,w_1200/713124' alt='Sager Abu Srehan, vice principal at the Amal Reut School, was one of the first to extend his hand to those impacted by the Iranian attacks in Arad and Dimona. (photo 
+- **3 injured as fragments of Iranian missile fall in unrecognized Bedouin village** (2026-03-24 17:03 UTC, Times of Israel)
+  Soroka Hospital doctor said seriously wounded, his wife and 2-month-old baby lightly hurt; most community members lack bomb shelters The post 3 injured as fragments of Iranian missile fall in unrecognized Bedouin village appeared first on The Times of Israel.
+- **Israel cyber chief: Iran war has delayed cyber law, bill could be passed in 2027 post-elections** (2026-03-24 16:52 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1107,w_1969/710028' alt='ON THE front line of the cyber war, Israel has become one of the world’s most targeted countries for cyberattacks, with state-backed hackers increasingly using AI to 
+- **Israel announces territorial seizure in Lebanon up to Litani River** (2026-03-24 16:21 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3595,w_5392/699917' alt='Defense Minister Israel Katz at Jerusalem City Hall, December 15, 2025. (photo credit: CHAIM GOLDBERG/FLASH90)' title='Defense Minister Israel Katz at Jerusalem City 
+- **Several wounded in central Israel Iranian missile barrage, one killed from Hezbollah rocket attack** (2026-03-24 15:29 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_900,w_1600/713134' alt='MDA responds to reports of wounded following Hezbollah rocket fire toward northern Israel on March 24, 2026. (photo credit: MAGEN DAVID ADOM)' title='MDA responds to r
+- **&#8216;Persona non grata&#8217;: Lebanon boots Iran’s ambassador amid Hezbollah-Israel war** (2026-03-24 15:16 UTC, Times of Israel)
+  Israeli FM Sa’ar praises move by Beirut, urges it to take 'meaningful steps' against Hezbollah, which condemns envoy's expulsion; hours later, Iranian missile intercepted over Lebanon The post &#8216;Persona non grata&#8217;: Lebanon boots Iran’s ambassador amid Hezbollah-Israel war appeared first o
+- **Lebanon declares Iran’s ambassador-designate persona non grata, gives him until Sunday to leave** (2026-03-24 13:08 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3933,w_5900/713088' alt='People celebrate what they say is Iran's victory, after US President Donald Trump announced a ceasefire between Israel and Iran, in Beirut, Lebanon June 25, 2025. (ph
+- **Chances of US-Iran deal 'very small,' Israeli officials tell 'Post'** (2026-03-24 11:07 UTC, Jerusalem Post)
+  <img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2160,w_3840/713058' alt='An illustration of US-Iranian negotiatons. (photo credit: Novikov Aleksey/Shutterstock.com)' title='An illustration of US-Iranian negotiatons. (photo credit: Novikov 

@@ -1,0 +1,809 @@
+{
+  "neutral": {
+    "lensAssessment": "The conflict is at a critical inflection point where the divergence between US de-escalation efforts and Israeli-Iranian operational momentum creates a high probability of accidental widespread escalation. The disconnect between public US diplomacy and the ground-level defiance from the Iranian parliamentary leadership suggests that the ceasefire push will likely face severe implementation hurdles.",
+    "timeframes": {
+      "24h": {
+        "overview": "Military operations will persist at high intensity despite US political overtures, as both Israel and local IRGC commanders act to consolidate tactical positions before any potential pause.",
+        "predictions": [
+          {
+            "prediction": "The IDF continues limited, high-intensity localized ground maneuvers in Southern Lebanon to secure the Litani River buffer.",
+            "probability": "85%",
+            "confidence": "High",
+            "reasoning": "Israeli leadership has consistently stated that ground operations will continue at full intensity regardless of diplomatic talk, and the IDF seeks to physically degrade Hezbollah's firing positions."
+          },
+          {
+            "prediction": "Iranian-aligned proxies in Iraq and Syria will launch one or more retaliatory rocket/drone salvos targeting US outposts.",
+            "probability": "70%",
+            "confidence": "Medium",
+            "reasoning": "Proxies often act independently of central state negotiations, and the recent strikes on PMF bases provide sufficient motivation for decentralized retaliation."
+          }
+        ],
+        "keyRisks": [
+          "Miscalculation during high-tempo operations leading to mass-casualty events on civilians",
+          "Disruption of the US-Israel diplomatic alignment due to unilateral Israeli strikes"
+        ],
+        "indicators": [
+          "Siren frequency in Central and Northern Israel",
+          "Official statements from IRGC Spokesperson regarding current negotiations"
+        ]
+      },
+      "1w": {
+        "overview": "The five-day US-imposed deadline creates a 'use it or lose it' window for both combatants, leading to a spike in operations around the March 27 deadline.",
+        "predictions": [
+          {
+            "prediction": "The US-announced pause on Iranian energy-sector strikes will be effectively discarded due to continued Iranian ballistic fire on Israel.",
+            "probability": "65%",
+            "confidence": "Medium",
+            "reasoning": "The pattern of Iranian missile launches post-negotiation claims suggests a lack of centralized control or a deliberate policy of 'resistance' overriding the purported deal."
+          },
+          {
+            "prediction": "The Lebanese transition period for the departure of the Iranian Ambassador remains in crisis, with the risk of severing formal diplomatic ties entirely.",
+            "probability": "80%",
+            "confidence": "High",
+            "reasoning": "Lebanon's move to declare the ambassador persona non grata is a sharp, irreversible diplomatic escalation that signals a shift in domestic Lebanese political tolerance for Iranian interference."
+          }
+        ],
+        "keyRisks": [
+          "Total collapse of the US-Iran backchannel",
+          "Economic shocks due to market uncertainty over the Strait of Hormuz"
+        ],
+        "indicators": [
+          "Status of the March 27 negotiation deadline",
+          "Movement of 82nd Airborne assets into theater"
+        ]
+      },
+      "1m": {
+        "overview": "The conflict transitions from high-intensity active missile exchanges toward a protracted state of 'asymmetric attritional warfare' as initial precision stocks are depleted.",
+        "predictions": [
+          {
+            "prediction": "Israel will maintain a degraded but persistent aerial interdiction campaign against IRGC resupply lines in Syria.",
+            "probability": "90%",
+            "confidence": "High",
+            "reasoning": "Israel's strategic goal of preventing the re-establishment of Iranian-backed forward operating bases is a non-negotiable security requirement that persists beyond tactical ceasefire windows."
+          },
+          {
+            "prediction": "Iran will adopt a 'war of attrition' posture, focusing on mining or remote disruption of regional commercial maritime traffic.",
+            "probability": "60%",
+            "confidence": "Medium",
+            "reasoning": "Having lost a significant percentage of its ballistic missile launch capability, Iran will switch to cheaper, difficult-to-defend asymmetric maritime threats."
+          }
+        ],
+        "keyRisks": [
+          "Sustained regional instability causing a permanent shift in global energy supply chains",
+          "Internal collapse or regime splintering within Iran due to military failure and isolation"
+        ],
+        "indicators": [
+          "Global oil price volatility",
+          "Frequency of strikes on Iranian logistics/depot facilities"
+        ]
+      },
+      "1y": {
+        "overview": "The region enters a new 'armed peace' characterized by permanent Israeli military presence in buffer zones and Iran's pivot toward clandestine nuclear breakout capabilities.",
+        "predictions": [
+          {
+            "prediction": "The Israel-Lebanon border area remains a militarized exclusion zone administered by the IDF or a foreign coalition.",
+            "probability": "75%",
+            "confidence": "Medium",
+            "reasoning": "The destruction of Hezbollah's infrastructure and the shift in Lebanese internal politics make a return to the pre-war status quo ante impossible."
+          },
+          {
+            "prediction": "Iran recalibrates its nuclear program to be more deeply dispersed and underground following the destruction of surface-level production facilitates.",
+            "probability": "85%",
+            "confidence": "High",
+            "reasoning": "The recent success of combined US-Israeli strikes on production hubs fundamentally shifts the strategic reality, forcing Iran into a more covert, hardened nuclear posture."
+          }
+        ],
+        "keyRisks": [
+          "Regional nuclear proliferation as Saudi Arabia or Turkey seek to offset Iranian uncertainty",
+          "Long-term collapse of Iran as a viable state actor leading to a power vacuum"
+        ],
+        "indicators": [
+          "IAEA reporting on Iranian enrichment levels",
+          "Reconstruction efforts in Southern Lebanon"
+        ]
+      }
+    }
+  },
+  "pessimistic": {
+    "lensAssessment": "Through the pessimistic lens, Trump's diplomatic gambit is a fatal delay allowing Iran to regroup and miscalculate U.S. resolve, while Israel's insistence on full-intensity operations ensures escalation amid fragile ceasefires and proxy surges, paving the way for catastrophic regional war.",
+    "timeframes": {
+      "24h": {
+        "overview": "Sustained low-level exchanges persist as Iran's denials undermine Trump's talks, with Israel conducting preemptive strikes and Hezbollah intensifying rocket fire amid U.S. troop deployments.",
+        "predictions": [
+          {
+            "prediction": "Iran launches a missile salvo targeting Israeli military bases in the Negev, causing 5-10 casualties.",
+            "probability": "70-80%",
+            "confidence": "High",
+            "reasoning": "Iran's pattern of retaliatory barrages following strikes near Bushehr will continue to signal defiance against denied concessions. Hezbollah's recent attacks show coordination, and Supreme Leader's backing of hardliners like Ghalibaf prioritizes escalation over diplomacy. Israeli defenses may intercept most, but some impacts are likely given cluster munition use."
+          },
+          {
+            "prediction": "IDF conducts airstrikes on IRGC drone production sites in Isfahan, destroying 20-30% of remaining capacity.",
+            "probability": "80-90%",
+            "confidence": "High",
+            "reasoning": "Israel's vow for full-intensity ops and recent successes against missile launchers indicate momentum toward degrading Iran's asymmetric threats. Netanyahu's War Cabinet dismisses premature ceasefires, targeting enablers of recent attacks on Tel Aviv. U.S. pause on energy strikes frees assets for such precision hits."
+          },
+          {
+            "prediction": "Hezbollah fires 100+ rockets into northern Israel, prompting IDF ground advances beyond Litani River.",
+            "probability": "60-70%",
+            "confidence": "Medium",
+            "reasoning": "Lebanon's expulsion of Iran's ambassador signals proxy fractures, but Hezbollah's 55 recent attacks show resilience under Naim Qassem. Casualties from Lebanese fire, including first fatality, cross Israel's red lines for escalation. Pessimistic miscalculation risks deeper incursions."
+          },
+          {
+            "prediction": "Trump issues public ultimatum to Iran via Truth Social, demanding verification of enrichment halt or resuming energy strikes.",
+            "probability": "50-60%",
+            "confidence": "Medium",
+            "reasoning": "Trump's pattern of bombastic statements amid 'progressing' talks, coupled with Israeli skepticism, suggests pressure to salvage delay. Ghalibaf's denial exposes diplomatic farce, risking U.S. credibility if unaddressed."
+          }
+        ],
+        "keyRisks": [
+          "Misinterception of Iranian missile near Dimona nuclear reactor",
+          "Hezbollah chemical rocket use in retaliation",
+          "IRGC cyberattack on U.S. bases in Gulf"
+        ],
+        "indicators": [
+          "IDF strike confirmations on Iranian sites",
+          "Casualty reports from northern/central Israel",
+          "Trump/X statements on talks"
+        ]
+      },
+      "1w": {
+        "overview": "Trump's March 27 deadline passes without deal as Iran rejects conditions, triggering U.S. strikes on energy infrastructure; Israel expands Lebanon ops while Houthis disrupt shipping.",
+        "predictions": [
+          {
+            "prediction": "U.S. launches Tomahawk strikes on Abadan oil refinery and Kharg Island terminal, spiking global oil to $150/barrel.",
+            "probability": "75-85%",
+            "confidence": "High",
+            "reasoning": "Iran's denial via Ghalibaf and Supreme Leader's stance doom talks; Trump's five-day delay ends March 27 amid unverified concessions. Failed diplomacy fits pessimistic path of miscalculation, with CENTCOM assets poised. Economic blowback accelerates escalation."
+          },
+          {
+            "prediction": "Israel seizes buffer zone in southern Lebanon up to Awali River, clashing with Hezbollah regulars.",
+            "probability": "65-75%",
+            "confidence": "Medium",
+            "reasoning": "IDF's Litani advance and full-intensity pledge respond to rocket fatalities; post-Nasrallah leadership vulnerable to ground pressure. Lebanon's anti-Iran moves weaken Hezbollah logistics, but pessimistically provoke IRGC reinforcements."
+          },
+          {
+            "prediction": "Houthis sink a commercial tanker in Bab el-Mandeb using anti-ship ballistic missile.",
+            "probability": "70-80%",
+            "confidence": "High",
+            "reasoning": "Iran's coordination with proxies persists despite Hormuz 'concessions'; recent Gulf drone interceptions show Houthi activity. U.S. 82nd Airborne deployment signals heightened threats, but fast-boat swarms enable sinkings."
+          },
+          {
+            "prediction": "Iranian Parliament passes law authorizing Strait of Hormuz partial closure to 'enemy' shipping.",
+            "probability": "55-65%",
+            "confidence": "Medium",
+            "reasoning": "Ghalibaf's defiance and Mojtaba Khamenei's influence push hardline measures post-denials. Trump's 'regime change' rhetoric risks retaliation, miscalculating IRGC naval resolve."
+          }
+        ],
+        "keyRisks": [
+          "Iranian retaliation on U.S. bases in Iraq killing dozens",
+          "Nuclear site strike from misfired missile",
+          "Saudi Arabia drawn in via drone attacks"
+        ],
+        "indicators": [
+          "Oil price surges above $120",
+          "IDF ground incursion announcements",
+          "Houthi attack claims"
+        ]
+      },
+      "1m": {
+        "overview": "Failed talks cascade into full conventional war; U.S.-Israel coalition targets Iranian nuclear sites while proxies overwhelm defenses, causing mass displacement and economic crisis.",
+        "predictions": [
+          {
+            "prediction": "Israel strikes Natanz and Fordow enrichment facilities, setting back Iran's program by 2-3 years.",
+            "probability": "60-70%",
+            "confidence": "Medium",
+            "reasoning": "Escalation ladder advances post-energy strikes; Netanyahu leverages war gains for red-line crossings despite U.S. hesitancy. Pessimistic IAEA reports of no damage fuel Israeli preemption amid regrouping IRGC."
+          },
+          {
+            "prediction": "PMF and Kataib Hezbollah overrun Al Asad base in Iraq, killing 50+ U.S. troops.",
+            "probability": "50-60%",
+            "confidence": "Low",
+            "reasoning": "U.S. troop surge invites Iranian proxy retaliation; recent PMF base strikes provoke coordination. Trump's delay miscalculates militia resolve, crossing U.S. red line."
+          },
+          {
+            "prediction": "Hezbollah unleashes 10,000+ rocket barrage, overwhelming Iron Dome and causing 500+ Israeli civilian casualties.",
+            "probability": "65-75%",
+            "confidence": "Medium",
+            "reasoning": "Stockpile estimates and recent surges indicate saturation capability post-Litani losses. Israel's ground ops trigger mass launches, with shrapnel risks to Beirut/ Tel Aviv."
+          },
+          {
+            "prediction": "China and Russia veto UNSC ceasefire, supplying Iran with S-400 systems.",
+            "probability": "80-90%",
+            "confidence": "High",
+            "reasoning": "Geopolitical alignments oppose U.S.-Israel; stalled JCPOA frameworks enable arms flows. Pessimistic diplomatic isolation prolongs conflict."
+          }
+        ],
+        "keyRisks": [
+          "Iranian use of chemical weapons in Lebanon",
+          "U.S. invocation of mutual defense triggering NATO debate",
+          "Global recession from Hormuz disruptions"
+        ],
+        "indicators": [
+          "IAEA alerts on nuclear damage",
+          "U.S. casualty evacuations",
+          "Rocket interception failure rates"
+        ]
+      },
+      "1y": {
+        "overview": "Protracted war erodes regimes; failed regime change in Iran leads to nuclear breakout or collapse, with U.S. entangled in multi-front conflict and Israel facing existential threats.",
+        "predictions": [
+          {
+            "prediction": "Iran achieves weapons-grade uranium enrichment breakout at Arak, prompting Israeli nuclear preemption.",
+            "probability": "40-50%",
+            "confidence": "Low",
+            "reasoning": "Strikes delay but don't destroy know-how; pessimistic IRGC salvage amid chaos accelerates dash. Netanyahu's thresholds crossed by mass casualties."
+          },
+          {
+            "prediction": "U.S.-led coalition topples Khamenei regime, but IRGC civil war fragments control of missiles.",
+            "probability": "30-40%",
+            "confidence": "Low",
+            "reasoning": "Trump's rhetoric and sustained ops aim for change, but proxies and Russian aid prolong. Miscalculations spawn chaos worse than status quo."
+          },
+          {
+            "prediction": "Hezbollah collapses southern Lebanon command, enabling Israeli annexation of security zone.",
+            "probability": "55-65%",
+            "confidence": "Medium",
+            "reasoning": "Attrition from ground/air campaigns depletes 150k stockpile; Lebanon's isolation accelerates. Pessimistically, refugee waves destabilize Jordan."
+          },
+          {
+            "prediction": "Houthis and IRGC mine Strait of Hormuz, halting 50% global oil transit for months.",
+            "probability": "70-80%",
+            "confidence": "High",
+            "reasoning": "Energy strikes cross Iran's red line; naval assets enable closure despite U.S. carriers. Economic desperation fuels long-term blockade."
+          }
+        ],
+        "keyRisks": [
+          "Israeli nuclear use against Tehran",
+          "Russian direct intervention in Syria",
+          "Sunni jihadist resurgence exploiting chaos"
+        ],
+        "indicators": [
+          "Iranian enrichment reports >90%",
+          "Regime defection announcements",
+          "Oil transit halts below 10M bpd"
+        ]
+      }
+    }
+  },
+  "optimistic": {
+    "lensAssessment": "The current confluence of US diplomatic intervention through the 5-day pause and internal Iranian pressure points suggests a narrowing window for a de-escalatory off-ramp. We anticipate a rapid consolidation toward a monitored verification regime that prioritizes nuclear containment and regional stability over continued kinetic degradation.",
+    "timeframes": {
+      "24h": {
+        "overview": "Tactical de-escalation is likely as all parties assess the diplomatic weight of the 5-day pause initiated by the US while maintaining high-alert defensive postures.",
+        "predictions": [
+          {
+            "prediction": "The IRGC will maintain a temporary operational lull in direct ballistic missile launches from Iranian soil to provide space for backchannel negotiations.",
+            "probability": "65-70%",
+            "confidence": "Medium",
+            "reasoning": "The recent US pause on energy infrastructure strikes provides a face-saving window for the Iranian leadership to test the sincerity of the conditions proposed by the US."
+          },
+          {
+            "prediction": "Israel will continue limited defensive targeting against Hezbollah positions in Southern Lebanon, distinguishing these from the wider Iran-focused campaign.",
+            "probability": "80%",
+            "confidence": "High",
+            "reasoning": "Israel remains unconvinced by the potential US-Iran deal and will maintain pressure on its northern border to improve security conditions for displaced civilians."
+          }
+        ],
+        "keyRisks": [
+          "Miscalculation by proxy actors leading to a mass casualty event",
+          "Internal Iranian hardliner sabotage of diplomatic signaling"
+        ],
+        "indicators": [
+          "Reduction in IRGC communications activity",
+          "Public statements from Ghalibaf indicating a shift toward acknowledging diplomatic channels"
+        ]
+      },
+      "1w": {
+        "overview": "This timeframe serves as the crucial pivot point where the current US-mediated pause either solidifies into an informal cessation or collapses back into high-intensity conflict.",
+        "predictions": [
+          {
+            "prediction": "A preliminary 'security understanding' will be reached between the US and Iran, involving the verified cessation of higher-level uranium enrichment.",
+            "probability": "55%",
+            "confidence": "Low",
+            "reasoning": "The 'significant prize' mentioned by Washington suggests that specific, verifiable concessions on nuclear infrastructure are already being prioritized in backchannels."
+          },
+          {
+            "prediction": "Israel will signal willingness to accept a phased pause in strikes, contingent upon clear evidence of the withdrawal of IRGC assets from the Syrian-Lebanese border corridor.",
+            "probability": "60%",
+            "confidence": "Medium",
+            "reasoning": "Netanyahu is under pressure to match US strategic objectives while ensuring that the threat on Israel's northern border is demonstrably reduced by the deal."
+          }
+        ],
+        "keyRisks": [
+          "Failure of the March 27 deadline leading to broader strikes on Iranian oil infrastructure",
+          "Breakdown of the Lebanon ceasefire due to rogue militia action"
+        ],
+        "indicators": [
+          "IAEA verification progress reports",
+          "Movement of the 82nd Airborne in a posture suggestive of regional stabilization rather than combat insertion"
+        ]
+      },
+      "1m": {
+        "overview": "Stabilization characterized by a return to baseline competition rather than open war, supported by regional economic and maritime security guarantees.",
+        "predictions": [
+          {
+            "prediction": "The Strait of Hormuz will see a formal return to international transit safety, backed by a multinational maritime task force including Gulf partners.",
+            "probability": "75%",
+            "confidence": "Medium",
+            "reasoning": "The economic imperative to stabilize global oil flows is a primary driver for both the US and regional actors to de-escalate maritime tensions."
+          },
+          {
+            "prediction": "Verification protocols for the nuclear and missile limitations will be established, with neutral third parties like Pakistan and India mediating.",
+            "probability": "60%",
+            "confidence": "Low",
+            "reasoning": "If the initial diplomatic breakthrough holds, both sides will require a neutral arbiter to monitor the implementation of the complex security requirements."
+          }
+        ],
+        "keyRisks": [
+          "Internal Iranian social instability following the strain of conflict",
+          "Partial resurgence of proxy-led low-level skirmishes"
+        ],
+        "indicators": [
+          "Normalization of global energy prices",
+          "Resumption of diplomatic missions in Beirut and Tehran"
+        ]
+      },
+      "1y": {
+        "overview": "A new, albeit precarious, long-term equilibrium will emerge, constrained by the reality of the damage done to Iranian capabilities and the deterrent success of the combined US-Israel operation.",
+        "predictions": [
+          {
+            "prediction": "A revised 'Nuclear and Security Framework' will replace the defunct structures, effectively delaying Iranian nuclear capability by several years.",
+            "probability": "50%",
+            "confidence": "Low",
+            "reasoning": "The systematic degradation of Iranian missile launch capability demonstrated in the conflict makes a lasting, albeit uneasy, technical control regime more feasible."
+          },
+          {
+            "prediction": "Hezbollah will retain a significantly diminished military presence in Southern Lebanon, effectively stripped of its long-range indigenous strike capacity.",
+            "probability": "70%",
+            "confidence": "Medium",
+            "reasoning": "Israel's demonstrated success in targeting command and production sites suggests a long-term shift in the regional balance of power, compelling the group to pivot to a political posture."
+          }
+        ],
+        "keyRisks": [
+          "The collapse of the new security framework if domestic political change occurs in any of the three primary nations",
+          "Regional power vacuum resulting from the weakening of traditional Iranian proxies"
+        ],
+        "indicators": [
+          "Sustainability of the Lebanon-Israel border calm",
+          "Measured rate of Iranian nuclear activity as audited by IAEA"
+        ]
+      }
+    }
+  },
+  "blindsides": {
+    "lensAssessment": "Through the Blindsides lens, low-probability pivots like an Iranian nuclear breakout declaration, assassination of Supreme Leader Khamenei, or sudden Hezbollah capitulation could shatter the current strike-diplomacy stalemate, while US regime change gambits or Houthi Strait disruptions pose black swan risks to regional stability.",
+    "timeframes": {
+      "24h": {
+        "overview": "Tit-for-tat strikes persist at current intensity with Israel targeting IRGC assets and Iran launching limited missile salvos, as US holds off on energy strikes amid Trump's diplomatic posturing and Iranian denials.",
+        "predictions": [
+          {
+            "prediction": "IAEA issues statement confirming no radiation leak or significant damage at Bushehr from Israeli-US strike, allowing de-escalation rhetoric.",
+            "probability": "75-85%",
+            "confidence": "High",
+            "reasoning": "Iran notified IAEA promptly and claimed no damage, aligning with pattern of downplaying strikes to preserve nuclear program. IAEA's neutral verification reduces escalation pretext. US diplomatic pause incentivizes damage minimization."
+          },
+          {
+            "prediction": "Hezbollah fires fewer than 20 rockets into northern Israel, causing no fatalities.",
+            "probability": "60-70%",
+            "confidence": "Medium",
+            "reasoning": "Recent Hezbollah losses to IDF strikes weaken launch capacity. Lebanon expelling Iranian ambassador signals reduced proxy coordination. Limited salvos match ongoing attrition pattern."
+          },
+          {
+            "prediction": "IRGC Quds Force retaliates by striking US base in Iraq, killing 5-10 US troops.",
+            "probability": "10-15%",
+            "confidence": "Low",
+            "reasoning": "Bushehr strike near nuclear site heightens revenge imperative, with PMF bases already hit. Blindside risk from miscalculation despite Hormuz concessions. US troop deployment invites tit-for-tat."
+          },
+          {
+            "prediction": "Netanyahu publicly rejects Trump's five-day pause, ordering IDF strike on Iranian drone production site in Isfahan.",
+            "probability": "40-50%",
+            "confidence": "Medium",
+            "reasoning": "Israeli statements emphasize full-intensity operations against ceasefire fears. Recent successes degrading missile launchers embolden continuation. Trump's unilateral diplomacy strains alliance."
+          }
+        ],
+        "keyRisks": [
+          "Misread Bushehr strike as nuclear threshold breach prompting Iranian cluster missile barrage on Tel Aviv",
+          "Trump's exaggerated claims provoke Iranian hardliner backlash denying all talks"
+        ],
+        "indicators": [
+          "IAEA update on Bushehr (confirming no escalation)",
+          "IRGC statements on retaliation",
+          "Trump or Netanyahu social media posts on strikes or talks"
+        ]
+      },
+      "1w": {
+        "overview": "Trump's March 27 deadline nears with stalled talks, leading to selective US-Israel strikes resuming on Iranian missile sites while proxies intensify border exchanges, but no energy infrastructure hits.",
+        "predictions": [
+          {
+            "prediction": "Iran's Supreme Leader Khamenei issues fatwa-like denial of uranium concessions, launching 50+ ballistic missiles at Israeli airbases.",
+            "probability": "30-40%",
+            "confidence": "Medium",
+            "reasoning": "Ghalibaf's parliamentary denial previews hardline rejection. Recent casualties and Bushehr strike demand face-saving retaliation. Aligns with escalation ladder step 4."
+          },
+          {
+            "prediction": "US 82nd Airborne deploys to eastern Syria, neutralizing PMF militias and securing Iraqi corridor.",
+            "probability": "50-60%",
+            "confidence": "High",
+            "reasoning": "Announced 3,000 troop deployment responds to base strikes. Secures logistics against Iranian resupply. Trump's aggressive posture fits pattern."
+          },
+          {
+            "prediction": "Houths sink commercial tanker in Bab el-Mandeb with anti-ship missile, halting Red Sea transit for 72 hours.",
+            "probability": "15-20%",
+            "confidence": "Low",
+            "reasoning": "Blindside proxy escalation amid Iranian pressure, independent of Hormuz deal. Recent Gulf drone interceptions show boldness. Global oil shock amplifies conflict."
+          },
+          {
+            "prediction": "Lebanon mediates Hezbollah ceasefire with Israel up to Litani River, expelling remaining IRGC advisors.",
+            "probability": "10-15%",
+            "confidence": "Low",
+            "reasoning": "Persona non grata ambassador signals anti-Iran pivot. IDF territorial gains pressure Naim Qassem. Black swan alignment fracture reduces proxy threat."
+          }
+        ],
+        "keyRisks": [
+          "Deadline breakdown triggers US energy strikes risking Hormuz closure",
+          "Proxy autonomy leads to uncontrolled mass-casualty attack"
+        ],
+        "indicators": [
+          "Khamenei speech on negotiations",
+          "Oil prices above $100/bbl",
+          "IDF Litani advance reports"
+        ]
+      },
+      "1m": {
+        "overview": "Conflict grinds into sustained attrition with Israel-US degrading 70% of Iranian missile arsenal, diplomatic talks collapsing into UNSC deadlock, and proxies like Hezbollah suffering heavy losses.",
+        "predictions": [
+          {
+            "prediction": "IDF conducts airstrike on Natanz enrichment facility, setting back Iranian program by 6-12 months without radiation release.",
+            "probability": "25-35%",
+            "confidence": "Medium",
+            "reasoning": "Israeli red lines on nuclear threat post-Bushehr; recent precision strikes enable. Trump's pause ends without deal. Blindside threshold cross alters nuclear trajectory."
+          },
+          {
+            "prediction": "Iran declares uranium enrichment halt under IAEA verification, in exchange for US strike moratorium.",
+            "probability": "20-30%",
+            "confidence": "Low",
+            "reasoning": "Trump's 15 conditions pressure amid military degradation. Backchannels via Pakistan viable. Black swan concession averts infrastructure war."
+          },
+          {
+            "prediction": "IRGC Aerospace Force commander assassinated by Mossad in Tehran, fracturing command chain.",
+            "probability": "8-12%",
+            "confidence": "Low",
+            "reasoning": "Pattern of targeted killings (e.g., Kourani); recent HQ strikes expose vulnerability. Blindside decapitation sparks internal chaos or coup."
+          },
+          {
+            "prediction": "Houthis and PMF coordinate attack sinking US carrier escort in Arabian Sea.",
+            "probability": "5-10%",
+            "confidence": "Low",
+            "reasoning": "Iranian naval depot hits heighten asymmetric retaliation. US carrier presence tempts high-impact black swan. Triggers full US conventional response."
+          }
+        ],
+        "keyRisks": [
+          "Nuclear site strike provokes maximum Iranian retaliation",
+          "Diplomatic isolation pushes Iran towards Russia-China axis"
+        ],
+        "indicators": [
+          "IAEA enrichment stockpile reports",
+          "Iranian missile launcher satellite imagery",
+          "US carrier strike group movements"
+        ]
+      },
+      "1y": {
+        "overview": "Iranian regime survives weakened with nuclear program delayed but intact, leading to frozen conflict, Abraham Accords strain, and US midterm pressures forcing partial drawdown.",
+        "predictions": [
+          {
+            "prediction": "Supreme Leader Khamenei dies of natural causes, triggering IRGC-led succession crisis and temporary ceasefire.",
+            "probability": "15-25%",
+            "confidence": "Low",
+            "reasoning": "Age/health vulnerabilities amid war stress; Mojtaba positioned but contested. Blindside power vacuum halts escalation for infighting."
+          },
+          {
+            "prediction": "Israel annexes south Lebanon up to Litani, dismantling Hezbollah into splinter factions.",
+            "probability": "20-30%",
+            "confidence": "Medium",
+            "reasoning": "IDF gains and ambassador expulsion erode support. Long-term proxy collapse redefines northern border. Black swan territorial pivot."
+          },
+          {
+            "prediction": "Iran conducts underground nuclear test at Fordow, prompting US-Israel preemptive ground invasion.",
+            "probability": "5-10%",
+            "confidence": "Low",
+            "reasoning": "Strikes push breakout desperation; undeclared capability exists. Ultimate black swan escalates to regime change war."
+          },
+          {
+            "prediction": "Trump brokers Iran-Israel non-aggression pact via Oman, including JCPOA revival and missile limits.",
+            "probability": "10-15%",
+            "confidence": "Low",
+            "reasoning": "Deal momentum from concessions; 2026 US politics incentivize win. Conceivable diplomatic masterstroke amid exhaustion."
+          },
+          {
+            "prediction": "China intervenes militarily in Strait of Hormuz to protect oil imports, deploying PLAN carrier group.",
+            "probability": "3-7%",
+            "confidence": "Low",
+            "reasoning": "Global recession from disruptions threatens Beijing; blindside great power entry globalizes conflict."
+          }
+        ],
+        "keyRisks": [
+          "Nuclear proliferation cascade involving Saudi Arabia",
+          "Economic collapse from prolonged Hormuz threats"
+        ],
+        "indicators": [
+          "Iranian leadership health rumors",
+          "Hezbollah attack frequency decline",
+          "UNSC Resolution 2231 violation reports"
+        ]
+      }
+    }
+  },
+  "probabilistic": {
+    "lensAssessment": "The situation is highly volatile with a fundamental divergence between US diplomatic brinkmanship and the Israeli-Iranian determination on the ground. Escalation remains the path of least resistance until a concrete political framework replaces the current cycle of kinetic strikes.",
+    "timeframes": {
+      "24h": {
+        "overview": "Expect a continuation of high-intensity kinetic operations by Israel and the IRGC despite U.S. efforts to secure a ceasefire, as neither local party appears ready to accept the terms of the implied deal.",
+        "predictions": [
+          {
+            "prediction": "Israel carries out at least two significant airstrikes on IRGC facilities in Syria or Lebanon.",
+            "probability": "75-85%",
+            "confidence": "High",
+            "reasoning": "Israel has explicitly stated it will continue operations at 'full intensity' regardless of US-Iran diplomatic signals to ensure strategic parity."
+          },
+          {
+            "prediction": "Iranian-aligned militias in Iraq or Syria launch retaliatory rocket attacks on US assets as a show of force against the 82nd Airborne deployment.",
+            "probability": "60-70%",
+            "confidence": "Medium",
+            "reasoning": "Heightened US presence typically triggers asymmetric 'reflex' responses from regional proxies to signal rejection of US hegemony."
+          }
+        ],
+        "keyRisks": [
+          "Mistaken targeting of civilian infrastructure leading to mass casualty event.",
+          "Internal IRGC splintering leading to unauthorized rogue missile launches.",
+          "Misinterpretation of US troop movements triggering a preemptive Iranian strike."
+        ],
+        "indicators": [
+          "Movement of US carrier strike groups closer to the Persian Gulf.",
+          "Verified cessation or acceleration of missile fire from Southern Lebanon.",
+          "Specific public rebuttals from the Iranian Supreme Leader's office regarding the proposed summit."
+        ]
+      },
+      "1w": {
+        "overview": "The deadline of March 27 for the Iran-US deal creates a period of intense pressure where both sides will likely maneuver for leverage, potentially leading to increased rocket barrages on northern Israel and deeper Israeli strikes on Iranian logistics.",
+        "predictions": [
+          {
+            "prediction": "The US strike on Iranian energy infrastructure occurs as scheduled on March 28 due to failed final negotiations.",
+            "probability": "55-65%",
+            "confidence": "Medium",
+            "reasoning": "Ghalibaf’s public denial of negotiations suggests that the Iranian domestic leadership is not signaling a surrender, making the compromise untenable."
+          },
+          {
+            "prediction": "Hezbollah’s operational tempo against northern Israel significantly decreases as the IDF consolidates control up to the Litani River.",
+            "probability": "50-60%",
+            "confidence": "Medium",
+            "reasoning": "The recent tactical successes of the IDF in seizing territory create a geographic buffer that naturally inhibits short-range rocket fire."
+          }
+        ],
+        "keyRisks": [
+          "Global energy price shock stemming from threatened Strait of Hormuz closure.",
+          "Total collapse of the Lebanese state governance structure following the expulsion of the Iranian ambassador."
+        ],
+        "indicators": [
+          "Content of public statements from Ghalibaf vs Supreme Leader's office.",
+          "International oil price benchmark movements exceeding 15% volatility.",
+          "Reports of Iranian naval assets moving into the Strait of Hormuz in a combat posture."
+        ]
+      },
+      "1m": {
+        "overview": "Stability remains unlikely unless the March 27 deadline forces a radical shift in Tehran's strategic posture, otherwise, expect a transition into a prolonged, lower-intensity shadow war or an expansion of the conflict into Iraq and Yemen.",
+        "predictions": [
+          {
+            "prediction": "Major Iranian ballistic missile launch capabilities remain degraded by over 50% through continuous Israeli/US suppression sorties.",
+            "probability": "70-80%",
+            "confidence": "High",
+            "reasoning": "Current operational success in degrading ~330 of 470 launchers suggests a sustained intelligence and strike success rate that is hard to replace in a short window."
+          },
+          {
+            "prediction": "A new regional security arrangement involving non-aligned Gulf states and Western forces begins to replace the defunct JCPOA framework.",
+            "probability": "40-50%",
+            "confidence": "Low",
+            "reasoning": "The current kinetic intensity provides a unique and narrow window for the US to force a regional security paradigm shift if Tehran's military wing is sufficiently weakened."
+          }
+        ],
+        "keyRisks": [
+          "Economic cascading failures in the Levant and Iran.",
+          "Uncontrolled proxy engagement leading to total war in Lebanon.",
+          "Cyber-attacks against critical regional infrastructure (water/power) disabling urban centers."
+        ],
+        "indicators": [
+          "Diplomatic visits between Tehran and neutral regional capitals (e.g., Oman).",
+          "Assessment of Iranian nuclear refinement levels by the IAEA.",
+          "Resumption of normal shipping transit through the Red Sea."
+        ]
+      },
+      "1y": {
+        "overview": "The conflict likely moves into a 'contained' state of low-level, persistent insecurity where Iranian influence in the Levant is permanently diminished but not eliminated, with Israel maintaining a deep-strike defensive posture.",
+        "predictions": [
+          {
+            "prediction": "The IRGC faces internal restructuring to mitigate the loss of command-and-control nodes destroyed during the current conflict.",
+            "probability": "80-90%",
+            "confidence": "High",
+            "reasoning": "The systemic failure to protect senior command and infrastructure bases forces a doctrinal and personnel overhaul after any ceasefire."
+          },
+          {
+            "prediction": "Israel officially absorbs or establishes a permanent 'buffer zone' in Southern Lebanon, effectively ending Hezbollah’s presence as a border force.",
+            "probability": "60-70%",
+            "confidence": "Medium",
+            "reasoning": "The IDF's current progress up to the Litani suggests this is a strategic goal that they will prioritize even after major combat ends."
+          }
+        ],
+        "keyRisks": [
+          "Nuclear breakout attempt by Iran as a 'last-resort' deterrent.",
+          "Protracted insurgency against Israeli forces in southern Lebanon.",
+          "Institutional destabilization within the Iranian regime."
+        ],
+        "indicators": [
+          "Construction or fortification of permanent IDF forward bases in Lebanon.",
+          "Public disclosure of Iranian post-war military procurement trends.",
+          "Signatures of a new long-term regional security treaty signed by US and neighboring states."
+        ]
+      }
+    }
+  },
+  "historical": {
+    "lensAssessment": "Historically, Israel under Netanyahu-like leaders sustains high-intensity operations until strategic objectives are secured, as in the 2006 Lebanon War and repeated Gaza campaigns despite international pressure. Iran's Supreme Leader prioritizes regime preservation through asymmetric retaliation and rhetorical defiance followed by de-escalation, mirroring responses to the 2020 Soleimani assassination and 1980s tanker war restraint; Trump's bombastic deal-making pauses echo his North Korea summits, leveraging military gains for concessions without full invasion commitments.",
+    "timeframes": {
+      "24h": {
+        "overview": "Low-level exchanges persist with Israeli strikes on Iranian military remnants and limited Iranian missile responses, while Trump amplifies optimistic diplomatic signals amid Israeli skepticism.",
+        "predictions": [
+          {
+            "prediction": "IDF conducts airstrikes on at least two additional IRGC sites in central Iran, targeting drone production or missile storage.",
+            "probability": "75-85%",
+            "confidence": "High",
+            "reasoning": "Israel historically exploits momentum from initial successes, as in the 1981 Osirak raid where it pressed unilateral strikes ignoring US pauses, and recent Syria ops against IRGC targets despite diplomatic contexts. Netanyahu's War Cabinet mirrors 2006 Lebanon by maintaining 'full intensity' to degrade threats."
+          },
+          {
+            "prediction": "Iran launches a salvo of 10-30 ballistic missiles and drones at northern Israel, causing minor casualties after interceptions.",
+            "probability": "60-70%",
+            "confidence": "Medium",
+            "reasoning": "Iran's pattern post-April 2024 direct strikes involves calibrated salvos to signal resolve without full escalation, akin to 1988 missile exchanges in the tanker war where it avoided US red lines. Supreme Leader Khamenei uses such actions to rally domestic support while preserving assets."
+          },
+          {
+            "prediction": "US President Trump issues public statements claiming 'major progress' in Iran talks via Truth Social or Fox interview.",
+            "probability": "80-90%",
+            "confidence": "High",
+            "reasoning": "Trump's historical style features exaggerated negotiation wins during pauses, as in 2018-2019 North Korea summits where he touted 'beautiful letters' amid stalled deals, using media to pressure counterparts."
+          },
+          {
+            "prediction": "No US or Israeli strikes occur on Iranian energy infrastructure or nuclear sites.",
+            "probability": "90%",
+            "confidence": "High",
+            "reasoning": "Trump mirrors his 2019-2020 Iran maximum pressure pauses before Soleimani strike, delaying infrastructure hits for deal leverage; Israel defers to US on such escalations historically, as in joint ops restraint."
+          }
+        ],
+        "keyRisks": [
+          "Misintercepted Iranian missile hits Israeli population center, triggering massive IDF response.",
+          "IAEA reports damage at Bushehr, prompting Iran nuclear breakout rhetoric.",
+          "Lebanon expels more diplomats, escalating proxy frictions."
+        ],
+        "indicators": [
+          "IDF strike confirmations via Telegram channels.",
+          "Sirens or Iron Dome activations in Israel.",
+          "Trump social media posts on Iran."
+        ]
+      },
+      "1w": {
+        "overview": "Israel consolidates Lebanese gains up to Litani River amid ongoing strikes in Iran, as Trump's March 27 deadline approaches with extended talks or partial deal announcement, while Iran tests boundaries via proxies.",
+        "predictions": [
+          {
+            "prediction": "IDF seizes full control up to Litani River in southern Lebanon, clashing with Hezbollah and killing 100+ operatives.",
+            "probability": "70-80%",
+            "confidence": "High",
+            "reasoning": "Israel's 1982 and 2006 Lebanon incursions involved ground pushes to buffer zones like Litani until political pressure mounted; Netanyahu emulates Sharon's expansion despite US concerns."
+          },
+          {
+            "prediction": "Trump extends deal deadline beyond March 27 or announces 'framework agreement' on Hormuz and enrichment freeze.",
+            "probability": "65-75%",
+            "confidence": "Medium",
+            "reasoning": "Trump's Art of the Deal tactics prolonged NK talks with extensions and partial wins; similar to 2020 Abraham Accords buildup via phased announcements amid military pressure."
+          },
+          {
+            "prediction": "Houthis under Iranian direction fire anti-ship missiles at one commercial vessel in Bab el-Mandeb.",
+            "probability": "50-60%",
+            "confidence": "Medium",
+            "reasoning": "Iran historically directs Houthi harassment during escalations, as in 2016-2019 Red Sea drone attacks to strain global trade without direct closure, mirroring 1980s Gulf tanker probes."
+          },
+          {
+            "prediction": "Iranian Parliament, led by Ghalibaf, passes resolution rejecting US conditions but signaling backchannel flexibility.",
+            "probability": "70%",
+            "confidence": "High",
+            "reasoning": "Iran's hardliners publicly defy while pragmatics negotiate covertly, as in 2013-2015 JCPOA run-up where Rouhani's team denied concessions amid rhetoric."
+          }
+        ],
+        "keyRisks": [
+          "Hezbollah counteroffensive overruns IDF positions.",
+          "Iran deploys mines in Strait of Hormuz prematurely.",
+          "US 82nd Airborne deployment sparks militia attacks on bases."
+        ],
+        "indicators": [
+          "IDF Litani advance maps from ISW/OSINT.",
+          "Trump-Netanyahu hotline calls reported.",
+          "Houthi claim videos."
+        ]
+      },
+      "1m": {
+        "overview": "US-brokered partial ceasefire emerges with Iran halting enrichment and missiles in exchange for strike pauses, allowing Israel to consolidate Lebanon gains and degrade IRGC capabilities further.",
+        "predictions": [
+          {
+            "prediction": "US and Iran hold indirect summit in Pakistan or Oman, yielding verifiable enrichment halt monitored by IAEA.",
+            "probability": "60-70%",
+            "confidence": "Medium",
+            "reasoning": "Trump pursues high-profile summits for legacy wins, as in 2018 Singapore; Iran concedes under pressure like 2013 Geneva interim deal after sanctions bite."
+          },
+          {
+            "prediction": "Israel declares 'Phase 1' victory, withdrawing partially from Lebanon but maintaining air superiority over Syria-Iraq corridor.",
+            "probability": "75%",
+            "confidence": "High",
+            "reasoning": "Post-2006 Lebanon, Israel withdrew after buffer creation; Netanyahu uses phased victories politically, akin to Gaza buffer zones."
+          },
+          {
+            "prediction": "Hezbollah leadership, under Naim Qassem, sues for local ceasefire in Lebanon to regroup.",
+            "probability": "55-65%",
+            "confidence": "Medium",
+            "reasoning": "Proxy groups historically seek truces after losses, as Hezbollah did in 2006 UNSCR 1701 aftermath despite rhetoric."
+          },
+          {
+            "prediction": "No full closure of Strait of Hormuz, but Iran increases fast boat patrols.",
+            "probability": "80%",
+            "confidence": "High",
+            "reasoning": "Iran avoids total Hormuz blockade historically (1980s tanker war peaks at harassment), preserving oil leverage for negotiations."
+          }
+        ],
+        "keyRisks": [
+          "Iran cheats on enrichment, exposed by IAEA.",
+          "Israeli strike on Fordow restarts escalation.",
+          "PMF attacks US troops in Iraq."
+        ],
+        "indicators": [
+          "IAEA inspection reports.",
+          "Ceasefire announcements from Qatar/Oman.",
+          "Oil tanker transit volumes."
+        ]
+      },
+      "1y": {
+        "overview": "Iranian regime weakens with degraded missile/nuclear programs and proxy setbacks, leading to internal unrest and a Trump-claimed 'maximum pressure' deal stabilizing the region short of regime change.",
+        "predictions": [
+          {
+            "prediction": "Iran's ballistic missile inventory reduced by 50%, verified by satellite imagery, forcing proxy reliance.",
+            "probability": "65-75%",
+            "confidence": "Medium",
+            "reasoning": "Israel/US sustained campaigns historically gut arsenals, as in Syria's 2018 S-300 losses; Iran rebuilds slowly like post-1980s."
+          },
+          {
+            "prediction": "Abraham Accords expand with Saudi-Israel normalization under US mediation.",
+            "probability": "70%",
+            "confidence": "High",
+            "reasoning": "Trump builds on 2020 Accords post-pressure, mirroring Nixon's 1970s Mideast shuttle after wars."
+          },
+          {
+            "prediction": "Supreme Leader Khamenei or successor Mojtaba faces protests leading to moderated nuclear stance.",
+            "probability": "50-60%",
+            "confidence": "Low",
+            "reasoning": "Regime pressure sparks unrest like 2009 Green Movement after setbacks; historical theocracies concede under duress, e.g., Khomeini's 1988 war end."
+          },
+          {
+            "prediction": "No Israeli nuclear strike or full US invasion occurs.",
+            "probability": "85%",
+            "confidence": "High",
+            "reasoning": "Actors historically avoid nuclear thresholds (Cuban Missile Crisis parallels) and invasions without casus belli, as US post-Soleimani."
+          }
+        ],
+        "keyRisks": [
+          "Iranian nuclear breakout.",
+          "Hezbollah resurgence attacks.",
+          "US election shifts policy."
+        ],
+        "indicators": [
+          "IRGC missile test failures.",
+          "Saudi-Israel joint statements.",
+          "Iran protest footage."
+        ]
+      }
+    }
+  }
+}
